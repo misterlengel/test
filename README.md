@@ -1,3 +1,3 @@
 # test
-!(bus.png)
+![](bus.png)
 
