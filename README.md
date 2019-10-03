@@ -1,3 +1,3 @@
 # test
-![Bus](bus.png)
+(bus.png)
 
